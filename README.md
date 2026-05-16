@@ -1,7 +1,7 @@
 # PulseBoard - Live Polls For Feedback
 
 <!-- Add your image here -->
-![PulseBoard Banner](link-to-your-image.png)
+![PulseBoard Banner](image.png)
 
 PulseBoard is a full-stack web application that allows users to create, share, and vote on live polls in real-time. It features a comprehensive dashboard for poll management, real-time analytics using WebSockets, and public poll discovery.
 
